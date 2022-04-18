@@ -1,5 +1,5 @@
 #                                                                                      Smart Contracts - Joint Savings Account
-
+![Smart Contracts](./Images/20-5-challenge-image.png)
 Here we are building Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts.
 
 To automate the creation of joint savings accounts, we created a Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. Smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
@@ -58,7 +58,7 @@ It can be confirmed by looking at contractBalance and the log output that the de
 
 ***5 ether into*** ***`accountOne`***
 
-***`![5EtherWithdraw_Balance.PNG](./Execution_Results/5EtherWithdraw_Balance.PNG)`***
+***![5EtherWithdraw_Balance.PNG](./Execution_Results/5EtherWithdraw_Balance.PNG)***
 
 It can be confirmed by looking at contractBalance and the log output that the withdraw was successful.
 
